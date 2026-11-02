@@ -1,0 +1,10 @@
+## Interface: 120100
+## Title: Yed Explorer for Ultima Noctis
+## Title-frFR: Yed Explorer for Ultima Noctis
+## Notes: Controle compact : repas, flacon, huiles/pierres d'arme, enchantements et gemmes.
+## Notes-frFR: N'affiche que les manques confirmes; huiles des autres joueurs si addon installe.
+## Author: Belzemute
+## Version: 0.1.3
+## SavedVariables: YedXploreurDB
+
+Core.lua
